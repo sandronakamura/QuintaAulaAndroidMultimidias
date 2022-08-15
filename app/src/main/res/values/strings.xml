@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Quinta Aula Android</string>
+    <string name="app_name">Multimídia e Mapas</string>
     <string name="text_button_recuperando_imagens">Recuperando fotos com ImageView</string>
     <string name="text_button_image_view">Recuperando fotos com ImageView</string>
     <string name="text_button_animation">Animação em views com View Animation</string>
