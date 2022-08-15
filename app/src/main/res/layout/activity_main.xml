@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:layout_marginTop="40dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp">
+
+    <Button
+        android:id="@+id/recuperandoFotos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_button_image_view"
+        android:textSize="14sp"
+        android:gravity="start"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/utilizandoMapas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_button_map_view"
+        android:textSize="14sp"
+        android:gravity="start"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/localizacaoUsuario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_button_location"
+        android:textSize="14sp"
+        android:gravity="start"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/rotas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_button_rotas"
+        android:textSize="14sp"
+        android:gravity="start"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/pontosInteresse"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_button_pontos_interesse"
+        android:textSize="14sp"
+        android:gravity="start"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/usandoWebView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_button_web_view"
+        android:textSize="14sp"
+        android:gravity="start"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/audioManager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_button_audio_manager"
+        android:textSize="14sp"
+        android:gravity="start"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/mediaPlayer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_button_media_player"
+        android:textSize="14sp"
+        android:gravity="start"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/animacaoView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_button_animation"
+        android:textSize="14sp"
+        android:gravity="start"
+        android:textAllCaps="false"/>
+
+
+
+</LinearLayout>

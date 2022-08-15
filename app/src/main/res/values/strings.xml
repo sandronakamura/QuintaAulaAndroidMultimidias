@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quinta Aula Android</string>
+    <string name="text_button_recuperando_imagens">Recuperando fotos com ImageView</string>
+    <string name="text_button_image_view">Recuperando fotos com ImageView</string>
+    <string name="text_button_animation">Animação em views com View Animation</string>
+    <string name="text_button_media_player">Vídeos: MediaPlayer</string>
+    <string name="text_button_audio_manager">Sons: AudioManager</string>
+    <string name="text_button_web_view">Usando WebView em seus Apps</string>
+    <string name="text_button_pontos_interesse">Pontos de interesse</string>
+    <string name="text_button_rotas">Rotas</string>
+    <string name="text_button_location">Localização do usuário com Location API</string>
+    <string name="text_button_map_view">Utilizando mapas: MapView</string>
+    <string name="text_toque_na_imagem">Toque na imagem</string>
+    <string name="fiap_on">FIAP ON</string>
+    <string name="abrir_video">botão abrir vídeo</string>
+    <string name="voltar_inicio">botão voltar ao inicio do video</string>
+    <string name="botao_play">botão play</string>
+    <string name="botao_pause">botão pause</string>
+    <string name="img_cow">Imagem de uma vaca</string>
+    <string name="dois_cachorros_brincando">Imagem de dois cachorros brincando</string>
+</resources>
